@@ -1,6 +1,6 @@
-## Hi, we're Zuto!
-
 ![](https://raw.githubusercontent.com/zuto/.github/main/zutomural-crop.jpg)
+
+### Hi, we are Zuto!
 
 We're on a mission to transform the car buying experience with simplicity & integrity!
 
