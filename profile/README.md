@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/zuto/.github/main/zutomural-crop.jpg)
+![](https://raw.githubusercontent.com/zuto/.github/main/zuto_mural_small.png)
 
 ### Hi, we are Zuto!
 
